@@ -15,3 +15,5 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+//https://api.themoviedb.org/3/movie/550?api_key=bcb06c62dfccc953099729fd3e920da9
